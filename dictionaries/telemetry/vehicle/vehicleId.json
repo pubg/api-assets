@@ -1,6 +1,6 @@
 {
   "AquaRail_A_01_C": "Aquarail",
-  "Boat_PG117_C": "PG-117",
+  "Boat_PG117_C": "Boat",
   "BP_Motorbike_04_C": "Motorcycle",
   "BP_Motorbike_04_Desert_C": "Motorcycle",
   "BP_Motorbike_04_SideCar_C": "Motorcycle (w/ Sidecar)",
@@ -28,9 +28,9 @@
   "Dacia_A_02_v2_C": "Dacia 1300",
   "Dacia_A_03_v2_C": "Dacia 1300",
   "Dacia_A_04_v2_C": "Dacia 1300",
-  "DummyTransportAircraft_C": "C-130",
+  "DummyTransportAircraft_C": "Plane",
   "ParachutePlayer_C": "Parachute",
-  "PG117_A_01_C": "PG-117",
+  "PG117_A_01_C": "Boat",
   "Uaz_A_01_C": "UAZ",
   "Uaz_B_01_C": "UAZ",
   "Uaz_C_01_C": "UAZ"
