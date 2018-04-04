@@ -1,0 +1,14 @@
+{
+  "Damage_BlueZone": "Bluezone Damage",
+  "Damage_Drown": "Drowning Damage",
+  "Damage_Explosion_Grenade": "Grenade Explosion Damage",
+  "Damage_Explosion_RedZone": "Redzone Explosion Damage",
+  "Damage_Explosion_Vehicle": "Vehicle Explosion Damage",
+  "Damage_Groggy": "Bleed out damage",
+  "Damage_Gun": "Gun Damage",
+  "Damage_Instant_Fall": "Fall Damage",
+  "Damage_Melee": "Melee Damage",
+  "Damage_Molotov": "Molotov Damage",
+  "Damage_VehicleCrashHit": "Vehicle Crash Damage",
+  "Damage_VehicleHit": "Vehicle Damage"
+}
