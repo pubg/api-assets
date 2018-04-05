@@ -28,7 +28,7 @@ Here we find that the *pretty* name for `Item_Attach_Weapon_Stock_SniperRifle_Ch
 
 ## Enums
 
-The `enums` folder contains files with an array of possible values for the telemetry data kay associated with each filename. For example:
+The `enums` folder contains files with an array of possible values for the telemetry data key associated with each filename. For example:
 
 Here is a basic schema for the item object found throughout the telemetry data:
 
@@ -42,7 +42,7 @@ Here is a basic schema for the item object found throughout the telemetry data:
 }
 ```
 
-Similar to the how dictionary works for values of `ItemId`, we can look up all of the possible values for `category` and `subcategory` in `category.json` and `subcategory.json` respectively. The difference here is that the possible values do not need mapping because their meanings are straightforward.
+Similar to how dictionaries work for values of `ItemId`, we can look up all of the possible values for `category` and `subcategory` in `category.json` and `subcategory.json` respectively. The difference here is that the possible values do not need mapping because their meanings are straightforward.
 
 ## Community Contributions
 
