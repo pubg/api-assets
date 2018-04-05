@@ -26,6 +26,24 @@ Here we find that the *pretty* name for `Item_Attach_Weapon_Stock_SniperRifle_Ch
 
 **NOTE**: Not all of the telemetry data will have associated mapping files.
 
+## Enums
+
+The `enums` folder contains files with an array of possible values for the telemetry data kay associated with each filename. For example:
+
+Here is a basic schema for the item object found throughout the telemetry data:
+
+```
+{
+  "itemId": string,
+  "stackCount": int,
+  "category": string,
+  "subCategory": string,
+  "attachedItems": [ItemId, ...]
+}
+```
+
+Similar to the how dictionary works for values of `ItemId`, we can look up all of the possible values for `category` and `subcategory` in `category.json` and `subcategory.json` respectively. The difference here is that the possible values do not need mapping because their meanings are straightforward.
+
 ## Community Contributions
 
 Community contributions and feedback are welcome! Please feel free to submit an issue if there is something missing or not quite right, and we will take a look as soon as we are able.
