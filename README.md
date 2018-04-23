@@ -2,6 +2,12 @@
 
 Art assets and data dictionaries for use with the PUBG API.
 
+## Notes
+
+Most of the names of files here and the values within them are intended to match up exactly with the data. This means that any typos in the data will show up here as well just to be consistent.
+
+The casing for file, folder, key, and value names is consistent with the data. In cases where there was no specific, case such as the `Assets` folder, we chose to line them up with the casing around them. So `Assets` starts with an uppercase letter because the folders and files within it do as well.
+
 ## Assets
 
 The `assets` folder contains art assets for equipment, weapons, and more. Assets for data found in the telemetry will have the same file name. For example, `Item_Attach_Weapon_Lower_AngledForeGrip_C` in the telemetry will match up to `Item_Attach_Weapon_Lower_AngledForeGrip_C.png`.
