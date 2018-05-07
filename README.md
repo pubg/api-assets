@@ -10,11 +10,13 @@ The casing for file, folder, key, and value names is consistent with the data. I
 
 ## Assets
 
-The `assets` folder contains art assets for equipment, weapons, and more. Assets for data found in the telemetry will have the same file name. For example, `Item_Attach_Weapon_Lower_AngledForeGrip_C` in the telemetry will match up to `Item_Attach_Weapon_Lower_AngledForeGrip_C.png`.
+The `Assets` folder contains art assets for equipment, weapons, and more. Assets for data found in the telemetry will have the same file name. For example, `Item_Attach_Weapon_Lower_AngledForeGrip_C` in the telemetry will match up to `Item_Attach_Weapon_Lower_AngledForeGrip_C.png`.
 
 Where applicable, image assets are organized at the top level by the telemetry object in which they appear. Assets that do not have a corresponding telemetry object will just be sorted into appropriately named folders (Icons, Maps).
 
 Item image assets are organized by the category, and subCategory in which they appear within the telemetry data. For example, `Item_Attach_Weapon_Lower_AngledForeGrip_C.png` from the previous example can be found in `Assets/Item/Attachment/None/` (`Assets/$telemetryObject/$category/$subCategory`).
+
+The `Assets/Icons` folder contains HUD icon images organized by category and subCategory just like regular assets. Since HUD icons are black and white, they don't need different versions for skins. To keep the naming somewhat consistent with the telemetry values, icons that have multiple skins use a fake skin ID of `00`. For example, the icon for `Item_Head_E_01_Lv1_C` and `Item_Head_E_02_Lv1_C` where `01` and `02` represent the item's skin is `Item_Head_E_00_Lv1_C`.
 
 ## Dictionaries
 
