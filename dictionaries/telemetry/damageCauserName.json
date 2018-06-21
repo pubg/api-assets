@@ -1,6 +1,7 @@
 {
   "BattleRoyaleModeController_Def_C": "Bluezone",
   "BattleRoyaleModeController_Desert_C": "Bluezone",
+  "BattleRoyaleModeController_Savage_C": "Bluezone",
   "Boat_PG117_C": "PG-117",
   "BP_Mirado_A_02_C": "Mirado",
   "BP_Mirado_Open_03_C": "Mirado (open top)",
@@ -67,6 +68,7 @@
   "WeapMk14_C": "Mk14 EBR",
   "WeapNagantM1895_C": "R1895",
   "WeapPan_C": "Pan",
+  "WeapQBZ95_C": "QBZ95",
   "WeapRhino_C": "R45",
   "WeapSaiga12_C": "S12K",
   "WeapSawnoff_C": "Sawed-off",
