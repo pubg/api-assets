@@ -8,6 +8,8 @@ Most of the names of files here and the values within them are intended to match
 
 The casing for file, folder, key, and value names is consistent with the data. In cases where there was no specific, case such as the `Assets` folder, we chose to line them up with the casing around them. So `Assets` starts with an uppercase letter because the folders and files within it do as well.
 
+Data found in the `dictionaries` folder will not be found in the `enums` folder and vice versa. The difference between them is whether the possible values need to be mapped to a shorter, more human-readable name. The folders are explained further below.
+
 ## Assets
 
 The `Assets` folder contains art assets for equipment, weapons, and more. Assets for data found in the telemetry will have the same file name. For example, `Item_Attach_Weapon_Lower_AngledForeGrip_C` in the telemetry will match up to `Item_Attach_Weapon_Lower_AngledForeGrip_C.png`.
