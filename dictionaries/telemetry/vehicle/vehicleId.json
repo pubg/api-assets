@@ -38,8 +38,10 @@
   "Dacia_A_04_v2_C": "Dacia 1300",
   "DummyTransportAircraft_C": "C-130",
   "ParachutePlayer_C": "Parachute",
-  "PG117_A_01_C": "PG-117",
+  "ParachutePlayer_Warmode_C": "Parachute",
+  "PG117_A_01_C": "PG-117", 
   "Uaz_A_01_C": "UAZ (open top)",
   "Uaz_B_01_C": "UAZ (soft top)",
-  "Uaz_C_01_C": "UAZ (hard top)"
+  "Uaz_C_01_C": "UAZ (hard top)",
+  "WarModeTransportAircraft_C": "C-130"
 }
