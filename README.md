@@ -60,6 +60,10 @@ Similar to how dictionaries work for values of `itemId`, we can look up all of t
 
 Enums are organized by data type (telemetry, match, ...) and telemetry object type (item, vehicle, ...). For example, `category.json` and `subcategory.json` from the previous example would be found in `enums/telemetry/item/`.
 
+## Seasons
+
+Since the start and end dates for seasons are not available at the /seasons endpoint, we have made them available in `seasons.json`. The dates are in the format MM-DD-YYYY. If the season's endDate is `00-00-0000`, then that season is in progress.
+
 ## Community Contributions
 
 Community contributions and feedback are welcome! Please feel free to submit an issue if there is something missing or not quite right, and we will take a look as soon as we are able.
