@@ -93,5 +93,14 @@
             "endDate": "00-00-0000"
         }
       }
-        ]
+        ],
+    "PS4": [
+      {
+          "id": "division.bro.official.2018-09",
+          "attributes": {
+            "startDate": "12-07-2018",
+            "endDate": "00-00-0000"
+        }
+      }
+    ]
   }
