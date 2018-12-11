@@ -1,18 +1,16 @@
-[
-  {
-    "titleName": "UNKNOWN",
-    "titleNumber": 0,
+{
+  "UNKNOWN": {
+    "title": 0,
     "levels": [
-      {
-        "level": 0,
-        "survivalPoints": "1",
-        "demotion": false
-      }
-    ]
-  },
-  {
-    "titleName": "BEGINNER",
-    "titleNumber": 1,
+        {
+          "level": 0,
+          "survivalPoints": "1",
+          "demotion": false
+        }
+      ]
+    },
+  "BEGINNER": {
+    "title": 1,
     "levels": [
       {
         "level": 5,
@@ -41,9 +39,8 @@
       }
     ]
   },
-  {
-    "titleName": "NOVICE",
-    "titleNumber": 2,
+  "NOVICE": {
+    "title": 2,
     "levels": [
       {
         "level": 5,
@@ -72,9 +69,8 @@
       }
     ]
   },
-  {
-    "titleName": "EXPERIENCED",
-    "titleNumber": 3,
+  "EXPERIENCED": {
+    "title": 3,
     "levels": [
       {
         "level": 5,
@@ -103,9 +99,8 @@
       }
     ]
   },
-  {
-    "titleName": "SKILLED",
-    "titleNumber": 4,
+  "SKILLED": {
+    "title": 4,
     "levels": [
       {
         "level": 5,
@@ -134,9 +129,8 @@
       }
     ]
   },
-  {
-    "titleName": "SPECIALIST",
-    "titleNumber": 5,
+  "SPECIALIST": {
+    "title": 5,
     "levels": [
       {
         "level": 5,
@@ -165,9 +159,8 @@
       }
     ]
   },
-  {
-    "titleName": "EXPERT",
-    "titleNumber": 6,
+  "EXPERT": {
+    "title": 6,
     "levels": [
       {
         "level": 0,
@@ -176,9 +169,8 @@
       }
     ]
   },
-  {
-    "titleName": "SURVIVOR",
-    "titleNumber": 7,
+  "SURVIVOR": {
+    "title": 7,
     "levels": [
       {
         "level": 0,
@@ -187,9 +179,8 @@
       }
     ]
   },
-  {
-    "titleName": "LONE SURVIVOR",
-    "titleNumber": 7,
+  "LONE SURVIVOR": {
+    "title": 7,
     "levels": [
       {
         "level": 0,
@@ -198,4 +189,4 @@
       }
     ]
   }
-]
+}
