@@ -1,0 +1,192 @@
+{
+  "UNKNOWN": {
+    "title": 0,
+    "levels": [
+        {
+          "level": 0,
+          "survivalPoints": "1",
+          "demotion": false
+        }
+      ]
+    },
+  "BEGINNER": {
+    "title": 1,
+    "levels": [
+      {
+        "level": 5,
+        "survivalPoints": "1-199",
+        "demotion": false
+      },
+      {
+        "level": 4,
+        "survivalPoints": "200-399",
+        "demotion": false
+      },
+      {
+        "level": 3,
+        "survivalPoints": "400-599",
+        "demotion": false
+      },
+      {
+        "level": 2,
+        "survivalPoints": "600-799",
+        "demotion": false
+      },
+      {
+        "level": 1,
+        "survivalPoints": "800-999",
+        "demotion": false
+      }
+    ]
+  },
+  "NOVICE": {
+    "title": 2,
+    "levels": [
+      {
+        "level": 5,
+        "survivalPoints": "1000-1199",
+        "demotion": false
+      },
+      {
+        "level": 4,
+        "survivalPoints": "1200-1399",
+        "demotion": false
+      },
+      {
+        "level": 3,
+        "survivalPoints": "1400-1599",
+        "demotion": false
+      },
+      {
+        "level": 2,
+        "survivalPoints": "1600-1799",
+        "demotion": false
+      },
+      {
+        "level": 1,
+        "survivalPoints": "1800-1999",
+        "demotion": false
+      }
+    ]
+  },
+  "EXPERIENCED": {
+    "title": 3,
+    "levels": [
+      {
+        "level": 5,
+        "survivalPoints": "2000-2199",
+        "demotion": false
+      },
+      {
+        "level": 4,
+        "survivalPoints": "2200-2399",
+        "demotion": false
+      },
+      {
+        "level": 3,
+        "survivalPoints": "2400-2599",
+        "demotion": false
+      },
+      {
+        "level": 2,
+        "survivalPoints": "2600-2799",
+        "demotion": false
+      },
+      {
+        "level": 1,
+        "survivalPoints": "2800-2999",
+        "demotion": false
+      }
+    ]
+  },
+  "SKILLED": {
+    "title": 4,
+    "levels": [
+      {
+        "level": 5,
+        "survivalPoints": "3000-3199",
+        "demotion": false
+      },
+      {
+        "level": 4,
+        "survivalPoints": "3200-3399",
+        "demotion": false
+      },
+      {
+        "level": 3,
+        "survivalPoints": "3400-3599",
+        "demotion": false
+      },
+      {
+        "level": 2,
+        "survivalPoints": "3600-3799",
+        "demotion": false
+      },
+      {
+        "level": 1,
+        "survivalPoints": "3800-3999",
+        "demotion": false
+      }
+    ]
+  },
+  "SPECIALIST": {
+    "title": 5,
+    "levels": [
+      {
+        "level": 5,
+        "survivalPoints": "4000-4199",
+        "demotion": false
+      },
+      {
+        "level": 4,
+        "survivalPoints": "4200-4399",
+        "demotion": false
+      },
+      {
+        "level": 3,
+        "survivalPoints": "4400-4599",
+        "demotion": false
+      },
+      {
+        "level": 2,
+        "survivalPoints": "4600-4799",
+        "demotion": false
+      },
+      {
+        "level": 1,
+        "survivalPoints": "4800-4999",
+        "demotion": false
+      }
+    ]
+  },
+  "EXPERT": {
+    "title": 6,
+    "levels": [
+      {
+        "level": 0,
+        "survivalPoints": "5000-5999",
+        "demotion": false
+      }
+    ]
+  },
+  "SURVIVOR": {
+    "title": 7,
+    "levels": [
+      {
+        "level": 0,
+        "survivalPoints": "6000+",
+        "demotion": false
+      }
+    ]
+  },
+  "LONE SURVIVOR": {
+    "title": 7,
+    "levels": [
+      {
+        "level": 0,
+        "survivalPoints": "",
+        "demotion": true
+      }
+    ]
+  }
+}
