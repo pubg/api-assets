@@ -64,6 +64,10 @@ Enums are organized by data type (telemetry, match, ...) and telemetry object ty
 
 Since the start and end dates for seasons are not available at the /seasons endpoint, we have made them available in `seasons.json`. The dates are in the format MM-DD-YYYY. If the season's endDate is `00-00-0000`, then that season is in progress.
 
+## Survival Title System
+
+Survival Titles, their sublevels and associated points range, and whether a player can be demoted from each level is listed within `survivalTitles.json`. The `titleNumber` and `level` are used for `playerSeason.attributes.gameModeStats.{gameMode}.rankPointsTitle`.
+
 ## Community Contributions
 
 Community contributions and feedback are welcome! Please feel free to submit an issue if there is something missing or not quite right, and we will take a look as soon as we are able.
