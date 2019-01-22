@@ -77,36 +77,50 @@
             "endDate": "00-00-0000"
          }
       }
-        ],
+    ],
     "XBOX": [
       {
-          "id": "division.bro.official.2018-05",
-          "attributes": {
-            "startDate": "05-23-2018",
-            "endDate": "07-17-2018"
+        "id": "division.bro.official.2018-05",
+        "attributes": {
+          "startDate": "05-23-2018",
+          "endDate": "07-17-2018"
         }
       },
       {
-          "id": "division.bro.official.2018-07",
-          "attributes": {
-            "startDate": "07-18-2018",
-            "endDate": "09-03-2018"
+        "id": "division.bro.official.2018-07",
+        "attributes": {
+          "startDate": "07-18-2018",
+          "endDate": "09-03-2018"
         }
       },
       {
-          "id": "division.bro.official.2018-08",
-          "attributes": {
-            "startDate": "09-04-2018",
-            "endDate": "00-00-0000"
+        "id": "division.bro.official.2018-08",
+        "attributes": {
+          "startDate": "09-04-2018",
+          "endDate": "01-22-2019"
+        }
+      },
+      {
+        "id": "division.bro.official.xbox-01",
+        "attributes": {
+          "startDate": "01-22-2019",
+          "endDate": "00-00-0000"
         }
       }
-        ],
+    ],
     "PS4": [
       {
-          "id": "division.bro.official.2018-09",
-          "attributes": {
-            "startDate": "12-07-2018",
-            "endDate": "00-00-0000"
+        "id": "division.bro.official.2018-09",
+        "attributes": {
+          "startDate": "12-07-2018",
+          "endDate": "01-22-2019"
+        }
+      },
+      {
+        "id": "division.bro.official.playstation-01",
+        "attributes": {
+          "startDate": "01-22-2019",
+          "endDate": "00-00-0000"
         }
       }
     ]
