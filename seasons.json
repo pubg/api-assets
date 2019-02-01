@@ -80,6 +80,13 @@
     ],
     "XBOX": [
       {
+        "id": "division.bro.official.xb-pre1",
+        "attributes": {
+          "startDate": "12-10-2017",
+          "endDate": "05-22-2018"
+        }
+      },
+      {
         "id": "division.bro.official.2018-05",
         "attributes": {
           "startDate": "05-23-2018",
