@@ -2,6 +2,8 @@
 
 Art assets and data dictionaries for use with the PUBG API.
 
+Everything provided in this repository must be used according to the [Terms of Use](https://developer.pubg.com/tos)
+
 ## Notes
 
 Most of the names of files here and the values within them are intended to match up exactly with the data. This means that any typos in the data will show up here as well just to be consistent.
