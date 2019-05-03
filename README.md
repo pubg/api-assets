@@ -2,7 +2,7 @@
 
 Art assets and data dictionaries for use with the PUBG API.
 
-Everything provided in this repository must be used according to the [Terms of Use](https://developer.pubg.com/tos)
+Everything provided in this repository must be used according to the [Terms of Use](https://developer.pubg.com/tos) and [Player-created Content](https://www.pubg.com/player-created-content/).
 
 ## Notes
 
