@@ -118,6 +118,13 @@
         "id": "division.bro.official.xbox-01",
         "attributes": {
           "startDate": "01-22-2019",
+          "endDate": "05-21-2019"
+        }
+      },
+      {
+        "id": "division.bro.official.xbox-02",
+        "attributes": {
+          "startDate": "05-21-2019",
           "endDate": "00-00-0000"
         }
       }
@@ -134,6 +141,13 @@
         "id": "division.bro.official.playstation-01",
         "attributes": {
           "startDate": "01-22-2019",
+          "endDate": "05-21-2019"
+        }
+      },
+      {
+        "id": "division.bro.official.playstation-02",
+        "attributes": {
+          "startDate": "05-21-2019",
           "endDate": "00-00-0000"
         }
       }
