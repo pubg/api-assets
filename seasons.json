@@ -83,6 +83,13 @@
           "startDate": "03-28-2019",
           "endDate": "06-18-2019"
        }
+      },
+      {
+        "id": "division.bro.official.pc-2018-04",
+        "attributes": {
+          "startDate": "06-24-2019",
+          "endDate": "00-00-0000"
+       }
       }
     ],
     "XBOX": [
