@@ -1,14 +1,51 @@
 {
-  "MedalAnnihilation": "Annihilation",
-  "MedalAssassin": "Assassin",
-  "MedalDeadeye": "Deadeye",
-  "MedalDoubleKill": "Double Kill",
-  "MedalFirstBlood": "First Blood",
-  "MedalFrenzy": "Frenzy",
-  "MedalLastManStanding": "Last Man Standing",
-  "MedalLongshot": "Longshot",
-  "MedalPunisher": "Punisher",
-  "MedalQuadKill": "Quad Kill",
-  "MedalRampage": "Rampage",
-  "MedalTripleKill": "Triple Kill"
+  "MedalAnnihilation": {
+    "name": "Annihilation",
+    "description": "Defeat an entire squad by yourself."
+  },
+  "MedalAssassin": {
+    "name": "Assassin",
+    "description": "Defeat an enemy with a headshot without taking damage."
+  },
+  "MedalDeadeye": {
+    "name": "Deadeye",
+    "description": "Defeat an enemy with a headshot."
+  },
+  "MedalDoubleKill": {
+    "name": "Double Kill",
+    "description": "Defeat 2 enemies in rapid succession."
+  },
+  "MedalFirstBlood": {
+    "name": "First Blood",
+    "description": "Defeat the first opponent in a match."
+  },
+  "MedalFrenzy": {
+    "name": "Frenzy",
+    "description": "Defeat 5 opponents with a single weapon in a match."
+  },
+  "MedalLastManStanding": {
+    "name": "Last Man Standing",
+    "description": "Defeat the last opponent in a match."
+  },
+  "MedalLongshot": {
+    "name": "Longshot",
+    "description": "Defeat an enemy from at least 200 meters."
+  },
+  "MedalPunisher": {
+    "name": "Punisher",
+    "description": "Deal 300 damage with a single weapon in a match."
+  },
+  "MedalQuadKill": {
+    "name": "Quad Kill",
+    "description": "Defeat 4 enemies in rapid succession."
+  },
+  "MedalRampage": {
+    "name": "Rampage",
+    "description": "Defeat 10 opponents with a single weapon in a match."
+  },
+  "MedalTripleKill": {
+    "name": "Triple Kill",
+    "description": "Defeat 3 enemies in rapid succession."
+  }
 }
+
