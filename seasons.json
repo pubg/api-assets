@@ -88,6 +88,13 @@
         "id": "division.bro.official.pc-2018-04",
         "attributes": {
           "startDate": "07-24-2019",
+          "endDate": "10-22-2019"
+       }
+      },
+      {
+        "id": "division.bro.official.pc-2018-05",
+        "attributes": {
+          "startDate": "10-23-2019",
           "endDate": "00-00-0000"
        }
       }
