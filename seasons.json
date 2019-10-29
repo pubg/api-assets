@@ -153,6 +153,13 @@
         "id": "division.bro.official.console-04",
         "attributes": {
           "startDate": "10-01-2019",
+          "endDate": "10-28-2019"
+        }
+      },
+      {
+        "id": "division.bro.official.console-05",
+        "attributes": {
+          "startDate": "10-29-2019",
           "endDate": "00-00-0000"
         }
       }
@@ -190,6 +197,13 @@
         "id": "division.bro.official.console-04",
         "attributes": {
           "startDate": "10-01-2019",
+          "endDate": "10-28-2019"
+        }
+      },
+      {
+        "id": "division.bro.official.console-05",
+        "attributes": {
+          "startDate": "10-29-2019",
           "endDate": "00-00-0000"
         }
       }
