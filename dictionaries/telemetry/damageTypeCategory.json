@@ -13,5 +13,6 @@
   "Damage_Molotov": "Molotov Damage",
   "Damage_Punch": "Punch Damage",
   "Damage_VehicleCrashHit": "Vehicle Crash Damage",
-  "Damage_VehicleHit": "Vehicle Damage"
+  "Damage_VehicleHit": "Vehicle Damage",
+  "SpikeTrap": "Spike Trap damage"
 }
