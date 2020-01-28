@@ -1,7 +1,9 @@
 [
+  "Caraudio",
   "Door",
   "Fence",
   "Jerrycan",
+  "JukeBox",
   "VendingMachine",
   "Window"
 ]
