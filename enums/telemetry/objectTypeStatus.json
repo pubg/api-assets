@@ -1,6 +1,10 @@
 [
     "ACTIVATED",
     "Closing",
-    "Opening"
+    "false",
+    "Opening",
+    "Play",
+    "Stop",
+    "true"
 ]
   
