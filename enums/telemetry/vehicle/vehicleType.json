@@ -1,5 +1,6 @@
 [
     "FloatingVehicle",
+    "FlyingVehicle",
     "Parachute",
     "TransportAircraft",
     "WheeledVehicle"
