@@ -113,9 +113,11 @@
   "Item_Weapon_MP5K_C": "MP5K",
   "Item_Weapon_NagantM1895_C": "R1895",
   "Item_Weapon_Pan_C": "Pan",
+  "Item_Weapon_PanzerFaust100M_C": "Panzerfaust",
   "Item_Weapon_QBU88_C": "QBU88",
   "Item_Weapon_QBZ95_C": "QBZ95",
   "Item_Weapon_Rhino_C": "R45",
+  "Item_Weapon_Rock_C": "Rock",
   "Item_Weapon_Saiga12_C": "S12K",
   "Item_Weapon_Sawnoff_C": "Sawed-off",
   "Item_Weapon_SCAR-L_C": "SCAR-L",
@@ -133,5 +135,8 @@
   "Item_Weapon_vz61Skorpion_C": "Skorpion",
   "Item_Weapon_Win1894_C": "Win94",
   "Item_Weapon_Winchester_C": "S1897",
-  "WarModeStartParachutePack_C": "Parachute"
+  "WarModeStartParachutePack_C": "Parachute",
+  "SP6_EventItem_DVD_01_C": "Event Item",
+  "SP6_EventItem_DVD_02_C": "Event Item",
+  "SP6_EventItem_DVD_03_C": "Event Item"
 }

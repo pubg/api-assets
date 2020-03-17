@@ -5,6 +5,8 @@
   "Damage_Explosion_Breach": "Breach Explosion Damage",
   "Damage_Explosion_JerryCan": "Jerrycan Explosion Damage",
   "Damage_Explosion_Grenade": "Grenade Explosion Damage",
+  "Damage_Explosion_PanzerFaustBackBlast": "Panzerfaust Backblast Damage",
+  "Damage_Explosion_PanzerFaustWarhead": "Panzerfaust Explosion Damage",
   "Damage_Explosion_RedZone": "Redzone Explosion Damage",
   "Damage_Explosion_StickyBomb": "Sticky Bomb Explosion Damage",
   "Damage_Explosion_Vehicle": "Vehicle Explosion Damage",
