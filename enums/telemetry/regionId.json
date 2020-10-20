@@ -1,4 +1,11 @@
 {
+  "Chimera_Main": [
+    "Lab",
+    "Level_A",
+    "Level_B",
+    "Level_C",
+    "Ruins"
+  ],
   "Desert_Main": [
     "alcantara",
     "ruins",
