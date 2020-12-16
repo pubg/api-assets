@@ -123,6 +123,13 @@
         "id": "division.bro.official.pc-2018-09",
         "attributes": {
           "startDate": "10-21-2020",
+          "endDate": "12-16-2020"
+       }
+      },
+      {
+        "id": "division.bro.official.pc-2018-10",
+        "attributes": {
+          "startDate": "12-16-2020",
           "endDate": "00-00-0000"
        }
       }
@@ -216,6 +223,13 @@
         "id": "division.bro.official.console-09",
         "attributes": {
           "startDate": "10-29-2020",
+          "endDate": "12-17-2020"
+        }
+      },
+      {
+        "id": "division.bro.official.console-10",
+        "attributes": {
+          "startDate": "12-17-2020",
           "endDate": "00-00-0000"
         }
       }
@@ -288,6 +302,13 @@
         "id": "division.bro.official.console-09",
         "attributes": {
           "startDate": "10-29-2020",
+          "endDate": "12-17-2020"
+        }
+      },
+      {
+        "id": "division.bro.official.console-10",
+        "attributes": {
+          "startDate": "12-17-2020",
           "endDate": "00-00-0000"
         }
       }
@@ -311,6 +332,13 @@
         "id": "division.bro.official.console-09",
         "attributes": {
           "startDate": "10-29-2020",
+          "endDate": "12-17-2020"
+        }
+      },
+      {
+        "id": "division.bro.official.console-10",
+        "attributes":{
+          "startDate":"12-17-2020",
           "endDate": "00-00-0000"
         }
       }

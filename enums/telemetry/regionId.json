@@ -93,6 +93,14 @@
     "ruins",
     "pochinki"
   ],
+  "Heaven_Main": [
+    "coalyards",
+    "docks",
+    "industrialpark",
+    "railyard",
+    "residential",
+    "steelmill" 
+  ],
   "Savage_Main": [
     "kampong",
     "getaway",
