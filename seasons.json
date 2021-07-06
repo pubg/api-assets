@@ -244,6 +244,20 @@
         "id": "division.bro.official.console-10",
         "attributes": {
           "startDate": "12-17-2020",
+          "endDate": "04-08-2021"
+        }
+      },
+      {
+        "id": "division.bro.official.console-11",
+        "attributes": {
+          "startDate": "04-08-2021",
+          "endDate": "06-10-2021"
+        }
+      },
+      {
+        "id": "division.bro.official.console-12",
+        "attributes": {
+          "startDate": "06-10-2021",
           "endDate": "00-00-0000"
         }
       }
@@ -323,6 +337,20 @@
         "id": "division.bro.official.console-10",
         "attributes": {
           "startDate": "12-17-2020",
+          "endDate": "04-08-2021"
+        }
+      },
+      {
+        "id": "division.bro.official.console-11",
+        "attributes": {
+          "startDate": "04-08-2021",
+          "endDate": "06-10-2021"
+        }
+      },
+      {
+        "id": "division.bro.official.console-12",
+        "attributes": {
+          "startDate": "06-10-2021",
           "endDate": "00-00-0000"
         }
       }
@@ -353,6 +381,20 @@
         "id": "division.bro.official.console-10",
         "attributes":{
           "startDate":"12-17-2020",
+          "endDate": "04-08-2021"
+        }
+      },
+      {
+        "id": "division.bro.official.console-11",
+        "attributes": {
+          "startDate": "04-08-2021",
+          "endDate": "06-10-2021"
+        }
+      },
+      {
+        "id": "division.bro.official.console-12",
+        "attributes": {
+          "startDate": "06-10-2021",
           "endDate": "00-00-0000"
         }
       }
