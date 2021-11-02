@@ -279,6 +279,13 @@
         "id": "division.bro.official.console-13",
         "attributes": {
           "startDate": "08-11-2021",
+          "endDate": "10-14-2021"
+        }
+      },
+      {
+        "id": "division.bro.official.console-14",
+        "attributes": {
+          "startDate": "10-14-2021",
           "endDate": "00-00-0000"
         }
       }
@@ -379,6 +386,13 @@
         "id": "division.bro.official.console-13",
         "attributes": {
           "startDate": "08-11-2021",
+          "endDate": "10-14-2021"
+        }
+      },
+      {
+        "id": "division.bro.official.console-14",
+        "attributes": {
+          "startDate": "10-14-2021",
           "endDate": "00-00-0000"
         }
       }
@@ -430,6 +444,13 @@
         "id": "division.bro.official.console-13",
         "attributes": {
           "startDate": "08-11-2021",
+          "endDate": "10-14-2021"
+        }
+      },
+      {
+        "id": "division.bro.official.console-14",
+        "attributes": {
+          "startDate": "10-14-2021",
           "endDate": "00-00-0000"
         }
       }
