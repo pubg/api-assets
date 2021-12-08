@@ -158,8 +158,15 @@
         "id": "division.bro.official.pc-2018-14",
         "attributes": {
           "startDate": "10-05-2021",
-          "endDate": "00-00-0000"
+          "endDate": "11-30-2021"
        }
+      },
+      {
+        "id": "division.bro.official.pc-2018-15",
+        "attributes": {
+          "startDate": "12-01-2021",
+          "endDate": "00-00-0000"
+        }
       }
     ],
     "XBOX": [
