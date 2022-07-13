@@ -11,5 +11,8 @@
   "JukeBox",
   "PropaneTank",
   "VendingMachine",
-  "Window"
+  "Window",
+  "Ascender",
+  "GasPump",
+  "LockedDoor"
 ]
