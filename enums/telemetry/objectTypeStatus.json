@@ -1,11 +1,16 @@
 [
-    "ACTIVATED",
-    "Closing",
-    "false",
-    "FuelSpill",
-    "Ignite",
-    "Opening",
-    "Play",
-    "Stop",
-    "true"
+  "ACTIVATED",
+  "Closing",
+  "false",
+  "FuelSpill",
+  "Ignite",
+  "Opening",
+  "Play",
+  "Stop",
+  "true",
+  "Ascender_End_Dismount_Bottom",
+  "Ascender_End_Dismount_Top",
+  "Ascender_Start_Mount_Bottom",
+  "Ascender_Start_Mount_Top",
+  "LockedDoor_Unlocked"
 ]
