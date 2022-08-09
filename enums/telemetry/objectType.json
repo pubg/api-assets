@@ -14,5 +14,7 @@
   "Window",
   "Ascender",
   "GasPump",
-  "LockedDoor"
+  "LockedDoor",
+  "BulletproofShield",
+  "Cartoplights"
 ]
