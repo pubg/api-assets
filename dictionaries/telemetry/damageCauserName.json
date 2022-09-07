@@ -19,6 +19,7 @@
   "BP_FakeLootProj_MilitaryCrate_C": "Loot Truck",
   "BP_FireEffectController_C": "Molotov Fire",
   "BP_FireEffectController_JerryCan_C": "Jerrycan Fire",
+  "BP_Food_Truck_C": "Food Truck",
   "BP_Helicopter_C": "Pillar Scout Helicopter",
   "BP_IncendiaryDebuff_C": "Burn",
   "BP_JerryCanFireDebuff_C": "Burn",
@@ -199,5 +200,6 @@
   "WeapVector_C": "Vector",
   "WeapWin94_C": "Win94",
   "WeapWinchester_C": "S1897",
-  "Weapvz61Skorpion_C": "Skorpion"
+  "Weapvz61Skorpion_C": "Skorpion",
+  "lava": "lava"
 }
