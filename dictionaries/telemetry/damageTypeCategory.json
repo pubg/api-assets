@@ -1,4 +1,5 @@
 {
+  "Damage_Blizzard": "Blizzard Damage",
   "Damage_BlueZone": "Bluezone Damage",
   "Damage_BlueZoneGrenade": "Bluezone Grenade Damage",
   "Damage_DronePackage": "Drone Damage",
@@ -31,6 +32,7 @@
   "Damage_Melee": "Melee Damage",
   "Damage_MeleeThrow": "Melee Throw Damage",
   "Damage_Molotov": "Molotov Damage",
+  "Damage_Monster": "Monster Damage",
   "Damage_None": "No Damage",
   "Damage_Punch": "Punch Damage",
   "Damage_ShipHit": "Ferry Damage",
