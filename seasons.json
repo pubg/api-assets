@@ -192,8 +192,33 @@
       {
         "id": "division.bro.official.pc-2018-19",
         "attributes": {
-          "startDate": "06-10-2022",
-          "endDate": "00-00-0000"
+          "startDate": "08-10-2022",
+          "endDate": "10-11-2022"
+        }
+      },
+      {
+        "id": "division.bro.official.pc-2018-20",
+        "attributes": {
+          "startDate": "10-12-2022",
+          "endDate": "12-05-2022"
+        },
+        {
+         "id": "division.bro.official.pc-2018-21",
+         "attributes": {
+           "startDate": "12-06-2022",
+           "endDate": "02-14-2023"
+        },
+        {
+         "id": "division.bro.official.pc-2018-22",
+         "attributes": {
+           "startDate": "02-15-2023",
+           "endDate": "04-11-2023"
+        },
+        {
+         "id": "division.bro.official.pc-2018-23",
+         "attributes": {
+           "startDate": "04-12-2023",
+           "endDate": "00-00-0000"
         }
       }
     ],
