@@ -1,0 +1,29 @@
+name: Sync with Upstream and Publish
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allow manual runs
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Add Upstream Repository
+      run: |
+        git remote add upstream https://github.com/pubg/api-assets.git
+        git fetch upstream
+        git merge upstream/main --no-edit
+        git push origin main
+
+    - name: Publish to npm
+      if: ${{ success() }}
+      run: |
+        npm version patch -m "Automated update from upstream"
+        npm publish
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
